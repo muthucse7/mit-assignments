@@ -55,14 +55,8 @@ Testing and debugging
 Deliverables for the assignment
 - `bot.py` and any supporting modules you modified.
 - A 1–2 paragraph write-up describing design choices and how the agent reasons and acts.
-- Two images placed in this folder (or linked from the repo root):
-  1) `mockup.png` — a mockup of your original idea.
-  2) a screenshot of the Assignment 2 HTML page (e.g., copy `../Assignment_2_Vibe_Coding/Generated_UI_Code_html.png`).
-- Optional: short demo video or screenshots showing bot responding in Discord.
 
 Extensions and ideas
-- Add a simple task queue or scheduler (reminders, background checks).
-- Persist small state with SQLite for user preferences or reminders.
 - Integrate conversational intent parsing via the OpenAI client and route commands to LLM responses.
 
 References
